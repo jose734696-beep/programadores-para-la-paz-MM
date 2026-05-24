@@ -1,0 +1,9 @@
+Aprender a usar la terminal cambia la forma en la que uno se relaciona con el proyecto que estas haciendo dejando de ver solo carpetas y botones, y empiezas a entender realmente cómo están organizadas las cosas
+al principio parece incómoda o innecesaria, pero con el tiempo se vuelve una herramienta natural, porque te da rapidez, control y una sensación de que entiendes lo que estás haciendo más allá de la interfaz 
+muchos desarrolladores la valoran no solo porque ahorra tiempo, sino porque obliga a ser más ordenado, más consciente de la estructura del proyecto y más autónomo al resolver problemas.
+la base de todo lo que tenemos es el orden, si somos organizados nos vamos a volver agilez, rapidos y nuestro trabajo va a ser de manera menos estresante, ademas de que si conocemos bien lo que hacemos,
+usamos las herramientas que tenemos a nuestra dispocicion y lo hacemos de una manera ordenada todo lo que hagamos nos va a salir bien y si no llegamos a tener disposicion para aprender a manejar de buena
+forma la terminal nos vamos a perder de muchas cosas y atajos que podriamos tener, ademas de que aprender a usar la terminal de buena forma no es solo memorizarse comandos si no que tambien es
+desarrolar una forma distinta de pensar, ser mas cuidadoso con las estructura y nos ayuda a entender de mejor manera lo que pasa dentro del proyecto sin olvidar que tendremos un trabajo
+de manera limpia y nos volvemos mas autonomos ya que aveces los problemas no se solucionan con un click si no entendiendo de una forma mas profunda en como funciona el proyecto dejando que con el tiempo 
+se sienta de una forma complicada y se empiece a sentir de una forma natural del proyecto
