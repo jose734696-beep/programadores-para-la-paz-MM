@@ -1,0 +1,11 @@
+aunque no lo creamos las 3 cosas estan conectadas entre si
+primero que todo el uso responsable de la informacion del internet, la participacion ciudadana y la organizacion del trabajo tecnico con herramientas como git
+tienen algo en comun y esque todas depende de las responsabilidad de las personas, podemos tener todas las herramientas posibles pero si no somos responsables con el uso de ellas solo nos vamos a perjudicar
+entre todos, podemos empezar por lo mas facil que es dejar de creer ciegamente en el uso de la IA y verificar lo que nos dice y no creer todo lo que vemos en internet ya que no sabemos si es real o no.
+podemos tambien aparte de no creernos todo lo que vemos en el internet no decinformar a las personas si no estamos seguros de lo que decimos ya que solo vamos a estar creando malentendidos y eso se puede 
+lograr no compartiendo noticias falsas, verificar siempre lo que vamos a decir y si tenemos dudas sobre algo estar siempre seguros de lo que vayamos a decir.
+por la parte de participacion ciudadana seria funcionaria mejor siempre que se respetara las decisiones de los demas (o sea siempre estar habiertos a escuchar ideas) ser organizados entre todos manteniendo
+siempre un orden y todo eso ayudaria a varios temas sociales como por ejemplo en proyectos sociales, educativos y tecnologicos, las personas siempre necesitan comunicarse para escuchar ideas distintas 
+y construir algo entre todos y justo ahi es donde entra git ya que esta representa lo anterior dicho, permiten que las personas trabajen en equipo sobre un mismo proyecto sin desorden, dejando
+por ejemplo el registro de los cambios que hagamos colaborando de manera clara y respetando el trabajo de los demas.
+en resumen tanto en el internet como en la vida real siempre tenemos que procurar hacer un buen trabajo em equipo de manera responsable, sana y respetuosa
