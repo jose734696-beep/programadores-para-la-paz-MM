@@ -1,0 +1,19 @@
+pregunta 1:
+
+respuesta:B
+
+
+preguntado 2:
+
+respusta:B
+
+
+
+pregunta 3:
+
+respuesta:ls
+
+
+pregunta 4:
+
+respuesta:mkdir
