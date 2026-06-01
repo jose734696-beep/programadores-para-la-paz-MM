@@ -1,0 +1,11 @@
+1. que es git?
+respuesta: B
+
+2. cual es la funcion principal de un respositorio?
+respuesta: B
+
+3.que hace el comadno git add .?
+respuesta: B
+
+4. que hace el comando git commit?
+respuesta: A

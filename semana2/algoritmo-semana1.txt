@@ -1,0 +1,8 @@
+los pasos que podemos usar pueden ser estos:
+1.abrir git bash
+2.entrar a la carpeta del proyecto con cd y despues el nombre de la carpeta
+3.creamos o editamos los archivos del proyecto
+4. revisamos que la informacion seaa correcta con fuentes confiables
+5.guardamos los cambios con "git add .." ya que asi preparamos los archivos
+6.creamos un commit con git commit -m "mensaje" asi recordamos que cambios hicimos
+7subimos el proyecto a github con "git push"
