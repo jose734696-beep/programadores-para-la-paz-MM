@@ -1,0 +1,10 @@
+Porque permite que las comunidades tengan mayor autonomía para crear soluciones que realmente respondan a sus necesidades,al utilizar tecnologías abiertas 
+como Node.js no dependen completamente de empresas o plataformas privadas y esto facilita que más personas puedan aprender cómo funcionan las herramientas y participar en su desarrollo
+también fomenta la colaboración y el intercambio de conocimientos entre ciudadanos, organizaciones y desarrolladores
+las soluciones pueden adaptarse mejor a los problemas específicos de cada comunidad además reduce costos de implementación y mantenimiento
+el acceso al código promueve la transparencia y la confianza en las herramientas creadas
+Las comunidades pueden mejorar continuamente los proyectos según sus experiencias y necesidades, se fortalece la innovación local al permitir que nuevas ideas se conviertan en soluciones reales
+taambién ayuda a desarrollar capacidades tecnológicas dentro de la comunidad y esto genera independencia tecnológica a largo plazo
+las tecnologías abiertas favorecen la inclusión porque cualquier persona puede contribuir o aprender Se crean ecosistemas más sostenibles y participativos
+la ciudadanía pasa de ser únicamente usuaria a convertirse en creadora de tecnología 
+Y eso fortalece la participación social, la colaboración y el desarrollo colectivo de soluciones con impacto real en su entorno
