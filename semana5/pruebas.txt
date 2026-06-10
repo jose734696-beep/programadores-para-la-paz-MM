@@ -1,0 +1,4 @@
+http://localhost:3000 vi que se activo el servdior y tenia un mensaje de "servidor activo"
+http://localhost:3000/saludo el servidor  tuvo una modificacion ya que se le agrego un slash "/" con saludo mostrando un mensaje de "hola comunidad"
+http://localhost:3000/mensaje/miguel aqui se cambio el "saludo" por "mensaje" y se le agrego un slash con un nombre y le puse el mio, mostro un mesnaje que decia
+"Hola miguel"

@@ -1,0 +1,11 @@
+Una ruta en una API es una instrucción que le dice al servidor qué debe hacer cuando recibe una solicitud en una dirección 
+específica por ejemplo puede indicar que al entrar a una URL se envíe 
+información o se guarden datos dependiendo del método HTTP que se use como GET o POST
+
+Para qué podría servir en una aplicación comunitaria?
+En una aplicación comunitaria este tipo de ruta podría servir para cosas como publicar reportes de problemas
+en un barrio compartir alertas importantes como emergencias
+o noticias locales o consultar información útil para los usuarios de la comunidad
+también ayuda a organizar los datos para que todos 
+los miembros puedan acceder a la información de forma rápida y ordenada lo que mejora la
+comunicación y la participación entre las personas de la comunidad
