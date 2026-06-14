@@ -1,0 +1,11 @@
+1. ¿Qué es JSON?
+respuesa: B
+
+2. ¿Qué permite express.json() en una aplicación Express?
+respuesta: B
+
+3. ¿Dónde se encuentran los datos enviados en una petición POST cuando usamos Express?
+respuesta: B
+
+4. ¿Cuál de las siguientes opciones representa correctamente un objeto JSON?
+respuesta: C

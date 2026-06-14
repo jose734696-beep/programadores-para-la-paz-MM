@@ -1,0 +1,3 @@
+"tipo": "Contaminación del caño",
+  "descripcion": "La comunidad reporta acumulación de basura y aguas residuales en el caño, generando malos olores y afectando la salud de los residentes."
+}

@@ -1,0 +1,10 @@
+Es importante porque cuando los reportes llegan en un formato estructurado la plataforma puede
+revisarlos uno por uno lo que hace que la información sea más rápida de usar y reduce errores al momento de
+interpretarla ya que todos los datos siguen el mismo orden y formato
+También ayuda a organizar mejor los casos porque cada reporte puede tener campos
+claros como tipo descripción o ubicación lo que permite clasificarlos fácilmente
+y asignarlos a la entidad correspondiente para que se atiendan de forma más eficiente según su prioridad
+además facilita la comunicación entre ciudadanos y sistemas tecnológicos porque los datos 
+aplicaciones y bases de datos haciendo que la información fluya de 
+manera más rápida y efectiva para mejorar la atención de los problemas en la 
+comunidadestructurados como JSON pueden ser usados directamente por
