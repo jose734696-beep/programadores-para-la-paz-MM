@@ -1,0 +1,8 @@
+es importante porque permite que las comunidades puedan registrar y consultar problemas
+de forma organizada ya que al reportar incidencias como daños
+en infraestructura fallas de servicios o situaciones de seguridad estas
+quedan guardadas y pueden ser atendidas por las autoridades de manera más
+rápida además al poder consultar los reportes la gente puede hacer seguimiente
+ver el estado de los problemas y evitar duplicar solicitudes
+lo que mejora la comunicación la transparencia y la eficiencia en
+la solución de los problemas de la comunidad

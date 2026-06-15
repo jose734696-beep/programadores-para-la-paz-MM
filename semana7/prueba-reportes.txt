@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "tipo": "Seguridad",
+    "descripcion": "Luz apagada en un parque de cali"
+  }
+]
+
+segundo reporte post:
+
+{
+  "tipo": "Vías públicas",
+  "descripcion": "Hueco grande en la calle principal"
+}
+
+{
+  "id": 3,
+  "tipo": "Vías públicas",
+  "descripcion": "Hueco grande en la calle principal"
+}

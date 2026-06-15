@@ -1,0 +1,13 @@
+ejemplo 1:
+
+{
+  "tipo": "Agua potable",
+  "descripcion": "Fuga de agua en la tubería del barrio"
+}
+
+ejemplo 2:
+
+{
+  "tipo": "Parques",
+  "descripcion": "Juegos infantiles dañados en el parque"
+}
