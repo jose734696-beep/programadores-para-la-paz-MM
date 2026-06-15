@@ -1,0 +1,5 @@
+1. utilizar contraseñas seguras y cambiarlas periódicamente
+2. implementar autenticación de usuarios para verificar la identidad de quienes acceden a la plataforma
+3. asignar roles y permisos para que cada usuario solo tenga acceso a la información necesaria
+4. proteger los datos personales mediante cifrado y almacenamiento seguro
+5. realizar copias de seguridad frecuentes para evitar la pérdida de información ante fallos o ataques informáticos

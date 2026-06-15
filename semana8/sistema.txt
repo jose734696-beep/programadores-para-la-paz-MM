@@ -1,0 +1,7 @@
+Por qué es útil conocer información del sistema cuando se administra un servidor?
+respuesta:
+es útil conocer información del sistema cuando se administra un servidor
+porque permite verificar el estado de los recursos identificar problemas
+de rendimiento controlar el uso de memoria y almacenamiento y asegurar que
+los servicios funcionen correctamente además ayuda a tomar decisiones de
+mantenimiento y solucionar fallos de manera más rápida y eficiente
