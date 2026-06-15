@@ -1,0 +1,15 @@
+sistema operativo: Un sistema operativo es el software principal de un dispositivo
+que permite usarlo y ejecutar programas, gestionando el hardware y los recursos del sistema.
+
+Node.js: es un entorno de ejecución de JavaScript que permite ejecutar
+código fuera del navegador, normalmente en el servidor, para crear aplicaciones web, APIs y otros servicios.
+
+Aplicación server.js: es un archivo de Node.js que normalmente actúa como el punto de 
+entrada de un servidor, donde se configura y se ejecuta el servidor
+para manejar solicitudes y respuestas de una aplicación web o API
+
+Puerto: es un número que identifica un punto de comunicación en un dispositivo dentro
+de una red, y permite que diferentes aplicaciones envíen y reciban datos de forma organizada
+
+Logs: son registros automáticos que guarda un sistema o aplicación para documentar
+eventos, errores y actividades, y así poder monitorear su funcionamiento o depurar problemas
