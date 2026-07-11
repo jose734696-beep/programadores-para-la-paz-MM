@@ -1,0 +1,11 @@
+evento que activa el flujo:
+cuando se registra una nueva propuesta comunitaria en el sistema.
+
+accion:
+n8n procesa el nuevo registro y envia una notificacion automatica a telegram.
+
+mensaje enviado a telegram:
+"se a registrado una nueva propuesta comunitaria. revisar la plataforma para mas informacion."
+
+informacion que no deberia enviarse por seguridad:
+no enviar nombres completos, documentos de identidad, numeros de telefono, direcciones, contrasenas ni datos personales sensibles.

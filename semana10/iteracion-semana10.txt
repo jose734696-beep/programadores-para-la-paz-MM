@@ -1,0 +1,15 @@
+1a. primero crearia el registro de propuestas comunitarias
+1b. permitiria que se pudiera ver las propuestas que se registraron
+
+¿Por qué son las más importantes?
+son las mas importantes ya que permitiria que se pudiera participar en los registros
+y permitir ver la informacion de la comunidad
+
+¿Qué significa para ti que una tarea esté “terminada”?
+para mi que una tarea este terminada significa que la tarea se logro cumplir con las expectativas q se tenian
+logrando que funcione correctamente de acuerdo al objetivo
+
+Definición de terminado:
+- funciona correctamente
+- fue probada y no presenta errores
+- quedó documentada y registrada en Git

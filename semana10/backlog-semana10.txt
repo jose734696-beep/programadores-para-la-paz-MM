@@ -1,0 +1,9 @@
+1. Como vecino quiero solicitar una jornada de limpieza para mejorar mi barrio (alta)
+
+2. Como líder comunitario quiero recibir las solicitudes para organizar las actividades (alta)
+
+3. Como voluntario quiero inscribirme en una jornada para colaborar (media)
+
+4. Como vecino quiero consultar la fecha de la próxima jornada para participar (media)
+
+5. Como organizador quiero ver el total de participantes para planificar los recursos (baja)

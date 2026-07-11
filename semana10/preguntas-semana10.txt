@@ -1,0 +1,11 @@
+1. ¿Qué es un backlog en un proyecto de software?
+respuesta: B
+
+2.¿Qué describe mejor una historia de usuario?
+respuesta: B
+
+3.¿Cuál es el propósito principal de n8n en esta semana?
+respuesta: B
+
+4.¿Para qué puede servir Telegram en esta semana?
+respuesta: B
