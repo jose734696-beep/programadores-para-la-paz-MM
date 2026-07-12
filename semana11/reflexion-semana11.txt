@@ -1,0 +1,7 @@
+una plataforma de participacion ciudadana necesita una base de datos, autenticacion
+de usuarios y proteccion de informacion porque debe
+manejar datos importantes de la comunidad de forma organizada
+y segura, la base de datos permite guardar las causas y apoyos, la autenticacion
+ayuda a controlar quienes participan y la proteccion evita que la
+informacion privada sea expuesta, todo esto permite que los usuarios
+tengan mas confianza al usar la plataforma

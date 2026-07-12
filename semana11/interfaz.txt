@@ -1,0 +1,9 @@
+La interfaz tendria un formulario donde los usuarios puedan crear una causa nueva con informacion basica
+como nombre y descripcion.
+
+Tambien tendria una vista de causas disponibles para que las personas puedan
+conocer las diferentes propuestas creadas en la plataforma.
+
+Cada causa tendria un boton para apoyar, permitiendo que los usuarios muestren su participacion.
+
+Ademas, incluiria un contador de apoyos para mostrar la cantidad de personas que respaldan cada causa.

@@ -1,0 +1,32 @@
+Entidad: Usuario
+
+Campos principales:
+
+id
+nombre
+correo
+
+Proposito:
+Guardar los datos de las personas que usan la plataforma
+
+Entidad: Proyecto
+
+Campos principales:
+
+id
+nombre
+descripcion
+
+Proposito:
+Guardar informacion de los proyectos creados en la plataforma
+
+Entidad: Comentario
+
+Campos principales:
+
+id
+usuario
+mensaje
+
+Proposito:
+Guardar los comentarios de los usuarios sobre los proyectos

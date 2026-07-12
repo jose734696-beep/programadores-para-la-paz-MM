@@ -1,0 +1,11 @@
+Que es el login en una aplicacion:
+el login es el proceso donde un usuario ingresa sus datos, como correo y contrasena, para
+acceder a una aplicacion y verificar su identidad
+
+por que algunas rutas deben estar protegidas:
+algunas rutas deben estar protegidas para evitar que personas no autorizadas accedan a funciones o
+informacion privada de la aplicacion
+
+que tipo de informacion no deberia exponerse publicamente:
+no se debe mostrar informacion privada como contrasenas, datos personales, informacion de
+usuarios o datos internos del sistema
