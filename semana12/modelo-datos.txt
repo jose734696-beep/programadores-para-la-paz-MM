@@ -1,0 +1,13 @@
+id: identificador unico de la causa
+titulo: nombre de la causa
+descripcion: explica el motivo de la causa
+fecha: fecha en que fue creada
+
+Apoyo
+
+Esta entidad registra a las personas que apoyan una causa
+
+id: identificador unico del apoyo
+causa_id: identifica la causa a la que pertenece el apoyo
+nombre: nombre de la persona que apoyo la causa
+fecha: fecha en que se registro el apoyo

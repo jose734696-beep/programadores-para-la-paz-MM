@@ -1,0 +1,14 @@
+1. Una persona entra a la pagina y crea una peticion
+sobre un problema que quiere solucionar
+
+2. La peticion se publica para que otras personas puedan verla
+
+3. Los ciudadanos que esten de acuerdo le dan su apoyo con un clic
+
+4. El sistema va mostrando cuantos apoyos tiene la peticion
+
+5.Cuando la peticion reune suficientes apoyos, el sistema
+crea un documento PDF con toda la informacion
+
+6. Finalmente, el PDF se puede descargar o enviar a
+la entidad correspondiente
